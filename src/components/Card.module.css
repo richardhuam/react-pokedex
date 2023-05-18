@@ -1,0 +1,19 @@
+.card {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 250px;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.card h1 {
+  font-size: 18px;
+}
+
+.card img {
+  height: 150px;
+  width: auto;
+}
